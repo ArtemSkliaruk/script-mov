@@ -1,5 +1,5 @@
 def calculate_travel_time(distance, speed):
-    """Обчислює час у дорозі в годинах."""
+    """"Розрахунок тривалості дороги."""
     return distance / speed
 
 
