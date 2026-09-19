@@ -1,3 +1,4 @@
+# Lab 1: Travel Calculation
 from lib import calculate_travel_time, calculate_fuel_needed, calculate_trip_cost
 
 def main():
